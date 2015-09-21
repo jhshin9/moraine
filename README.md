@@ -1,4 +1,4 @@
-** Banff **
+## Moraine
 
 ## Requirements
  * Angularjs 1.4.6
