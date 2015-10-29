@@ -19,6 +19,4 @@ node server.js
 ```
 
 ## The application should be now accessible on
-```
-[http://localhost:8000] (http://localhost:8000)
-```
+ * [http://localhost:8000] (http://localhost:8000)
