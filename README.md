@@ -6,7 +6,8 @@
 ## Requirements
  * [Angularjs 1.4.6] (https://angularjs.org/)
  * [Bootstrap 3.3.5] (http://getbootstrap.com/)
-
+ * [Nodejs 5.1.0] (https://nodejs.org/en/)
+ * [MongoDB 3.0.7] (https://www.mongodb.org/)
 
 ## Installation
 ```
